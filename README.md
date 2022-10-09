@@ -53,3 +53,13 @@ How to call pydoc use terminal:
 
 <img width="220" alt="image1" src="https://user-images.githubusercontent.com/61875831/194763173-a6fa825c-d255-4a9f-8482-43eb30555678.png">
 
+## File .txt ( Open, Read, and Close ) ##
+
+### Open ###
+If we want to open and read all contents in a file of type 'text-document', use functions `open` and `read`:
+
+<img width="282" alt="image1" src="https://user-images.githubusercontent.com/61875831/194777161-2ebbbabc-deff-40e1-9cd7-3bed31538202.png">
+
+### Create Function ### 
+In Python a function is defined using the `def` keyword
+
