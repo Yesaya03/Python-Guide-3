@@ -56,10 +56,14 @@ How to call pydoc use terminal:
 ## File .txt ( Open, Read, and Close ) ##
 
 ### Open ###
+
 If we want to open and read all contents in a file of type 'text-document', use functions `open` and `read`:
 
 <img width="282" alt="image1" src="https://user-images.githubusercontent.com/61875831/194777161-2ebbbabc-deff-40e1-9cd7-3bed31538202.png">
 
-### Create Function ### 
-In Python a function is defined using the `def` keyword
+### Read ### 
+
+Readd per line a file of type 'text document' use function `open` and `readline` (The readline() function will read per line starting from line 1 then line 2 and then line 3 and other lines):
+
+<img width="299" alt="image1" src="https://user-images.githubusercontent.com/61875831/194777592-96136588-f053-43e4-80c5-e606bd364140.png">
 
