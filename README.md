@@ -44,3 +44,12 @@ For Example:
 Noted:
 * x = Parameters
 * 3 = Arguments
+
+## Pydoc ##
+
+### Pydoc ###
+
+How to call pydoc use terminal:
+
+<img width="220" alt="image1" src="https://user-images.githubusercontent.com/61875831/194763173-a6fa825c-d255-4a9f-8482-43eb30555678.png">
+
