@@ -23,3 +23,12 @@ To call a function, use the function name followed by parenthesis:
 For Example:
 
 <img width="696" alt="image1" src="https://user-images.githubusercontent.com/61875831/194758359-0b2c27d4-1da9-4407-b3e7-31c6d0894857.png">
+
+### Pass by Reference vs Value ### 
+
+* All parameters (arguments) in python are "passed by reference". It means that when we change a variable, the data that refers to it will also change, both inside the function and outside the calling function.
+* Except, if using assignment operations that will change the reference parameter.
+
+For Example:
+
+<img width="458" alt="image1" src="https://user-images.githubusercontent.com/61875831/194758604-e8376773-de4c-4bff-afd8-431f5e92d3c1.png">
