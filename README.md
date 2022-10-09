@@ -40,6 +40,7 @@ Parameters are defined by the names that appear in a function definition, wherea
 For Example:
 
 <img width="318" alt="image1" src="https://user-images.githubusercontent.com/61875831/194760262-56de76ba-4776-48aa-88e1-c0d6b529d305.png">
+
 Noted:
 * x = Parameters
 * 3 = Arguments
