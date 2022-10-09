@@ -71,5 +71,5 @@ Read per line a file of type 'text document' use function `open` and `readline` 
 
 Close a file of type 'text document' use function `close`:
 
-<img width="170" alt="image1" src="https://user-images.githubusercontent.com/61875831/194778039-9def0fc8-6524-4829-b106-abed5bc319c6.png">
+<img width="300" alt="image1" src="https://user-images.githubusercontent.com/61875831/194778039-9def0fc8-6524-4829-b106-abed5bc319c6.png">
 
