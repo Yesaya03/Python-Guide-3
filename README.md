@@ -89,3 +89,11 @@ Will check the existence of a file using the `os` module if there is no file it 
 
 <img width="543" alt="image1" src="https://user-images.githubusercontent.com/61875831/194781139-f4079aed-b629-4445-9316-09fbff85455f.png">
 
+## File .txt ( Delete ) ##
+
+### Delete ###
+
+Remove file using the `os` module and `os.remove`:
+
+<img width="318" alt="image1" src="https://user-images.githubusercontent.com/61875831/194782270-fd6c6fd2-ff05-4c5e-b071-bad75d1db85d.png">
+
