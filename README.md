@@ -32,3 +32,11 @@ For Example:
 For Example:
 
 <img width="458" alt="image1" src="https://user-images.githubusercontent.com/61875831/194758604-e8376773-de4c-4bff-afd8-431f5e92d3c1.png">
+
+### Arguments & Parameters ### 
+
+Parameters are defined by the names that appear in a function definition, whereas arguments are the values actually passed to a function when calling it. Parameters define what types of arguments a function can accept. For example, given the function definition:
+
+For Example:
+
+<img width="458" alt="image1" src="https://user-images.githubusercontent.com/61875831/194758604-e8376773-de4c-4bff-afd8-431f5e92d3c1.png">
