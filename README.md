@@ -100,9 +100,14 @@ Remove file using the `os` module and `os.remove`:
 
 ## The Module Math ##
 
-### Delete ###
+### Import Module Math ###
 
 Python has a built-in module called `math`, which extends the list of mathematical functions.
 To use it, you must import the `math` module:
 
 <img width="200" alt="image1" src="https://user-images.githubusercontent.com/61875831/194783519-3fee0681-651f-47fa-aad9-c7f415622082.png">
+
+### Method in Math Module ###
+
+<img width="662" alt="image1" src="https://user-images.githubusercontent.com/61875831/194785257-dd805c63-009f-4ed1-baa6-1209b71626cb.png">
+
