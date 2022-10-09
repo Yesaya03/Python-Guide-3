@@ -102,6 +102,6 @@ Remove file using the `os` module and `os.remove`:
 
 ### Delete ###
 
-Python has a built-in module called `math`, which extends the list of mathematical functions.__
+Python has a built-in module called `math`, which extends the list of mathematical functions._ _
 To use it, you must import the `math` module:
 <img width="136" alt="image1" src="https://user-images.githubusercontent.com/61875831/194783519-3fee0681-651f-47fa-aad9-c7f415622082.png">
