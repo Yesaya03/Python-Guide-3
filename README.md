@@ -80,3 +80,12 @@ Close a file of type 'text document' use function `close`:
 Create and add contents file of type 'text document' use function `write` and parameter `w`:
 
 <img width="407" alt="image1" src="https://user-images.githubusercontent.com/61875831/194778513-4a6b5256-95a2-43f4-b98a-223465f02772.png">
+
+## File .txt ( Check Existance ) ##
+
+### Check Existance ###
+
+Will check the existence of a file using the `os` module if there is no file it will create a new file, but if it already exists it will enter the input value into the newly created file.
+
+<img width="543" alt="image1" src="https://user-images.githubusercontent.com/61875831/194781139-f4079aed-b629-4445-9316-09fbff85455f.png">
+
