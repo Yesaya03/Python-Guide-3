@@ -73,3 +73,10 @@ Close a file of type 'text document' use function `close`:
 
 <img width="250" alt="image1" src="https://user-images.githubusercontent.com/61875831/194778039-9def0fc8-6524-4829-b106-abed5bc319c6.png">
 
+## File .txt ( Write ) ##
+
+### Write ###
+
+Create and add contents file of type 'text document' use function `write` and parameter `w`:
+
+<img width="407" alt="image1" src="https://user-images.githubusercontent.com/61875831/194778513-4a6b5256-95a2-43f4-b98a-223465f02772.png">
