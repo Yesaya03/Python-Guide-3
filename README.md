@@ -63,7 +63,12 @@ If we want to open and read all contents in a file of type 'text-document', use 
 
 ### Read ### 
 
-Readd per line a file of type 'text document' use function `open` and `readline` (The readline() function will read per line starting from line 1 then line 2 and then line 3 and other lines):
+Read per line a file of type 'text document' use function `open` and `readline` (The readline() function will read per line starting from line 1 then line 2 and then line 3 and other lines):
 
 <img width="299" alt="image1" src="https://user-images.githubusercontent.com/61875831/194777592-96136588-f053-43e4-80c5-e606bd364140.png">
 
+### Close ### 
+
+Close a file of type 'text document' use function `close`:
+
+<img width="299" alt="image1" src="https://user-images.githubusercontent.com/61875831/194777592-96136588-f053-43e4-80c5-e606bd364140.png">
