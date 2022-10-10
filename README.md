@@ -110,3 +110,14 @@ To use it, you must import the `math` module:
 
 <img width="662" alt="image1" src="https://user-images.githubusercontent.com/61875831/194785257-dd805c63-009f-4ed1-baa6-1209b71626cb.png">
 
+## The Module Date ##
+
+### Import Module Date ###
+
+A date in Python is not a data type of its own, but we can import a module named `datetime` to work with dates as date objects.
+
+<img width="140" alt="foto1" src="https://user-images.githubusercontent.com/61875831/194806878-c50f978d-5dd9-4aec-97a0-f9a878b83b37.png">
+
+### Method in Date Module ###
+
+<img width="458" alt="foto1" src="https://user-images.githubusercontent.com/61875831/194807031-39890828-4136-45a4-84d7-19a0c46f0e5d.png">
