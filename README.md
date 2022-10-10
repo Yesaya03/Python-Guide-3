@@ -121,3 +121,11 @@ A date in Python is not a data type of its own, but we can import a module named
 ### Method in Date Module ###
 
 <img width="458" alt="foto1" src="https://user-images.githubusercontent.com/61875831/194807031-39890828-4136-45a4-84d7-19a0c46f0e5d.png">
+
+## The Module Input Output ##
+
+### Import Module Input Output ###
+
+Import a module named `io` to work with input and output module.
+
+<img width="120" alt="foto1" src="https://user-images.githubusercontent.com/61875831/194809999-669c5a36-abdc-482b-b147-f7baee1d073f.png">
