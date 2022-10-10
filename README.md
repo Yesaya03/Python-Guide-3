@@ -129,3 +129,19 @@ A date in Python is not a data type of its own, but we can import a module named
 Import a module named `io` to work with input and output module.
 
 <img width="120" alt="foto1" src="https://user-images.githubusercontent.com/61875831/194809999-669c5a36-abdc-482b-b147-f7baee1d073f.png">
+
+## The Module Sys ##
+
+### Import Module Sys ###
+
+This module provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter. It is always available. Import a module named `sys` to work with sys module. For example:
+
+<img width="458" alt="foto1" src="https://user-images.githubusercontent.com/61875831/194818224-8b855bcf-e081-4855-81ac-f0bcf722877d.png">
+
+## The Module Random ##
+
+### Import Module Random ###
+
+This module implements pseudo-random number generators for various distributions. For example:
+
+<img width="320" alt="foto1" src="https://user-images.githubusercontent.com/61875831/194821724-86f2f94a-85f6-429f-930b-ee424600c3a7.png">
